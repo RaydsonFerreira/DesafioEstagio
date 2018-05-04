@@ -1,0 +1,26 @@
+Ferrari, E
+Audi, E
+BMW, E
+Lamborghini, E
+Aston Martin, E
+Rolls-Royce, E
+Porsche, E
+Land Rover, E
+Jaguar, E
+Fiat 500, C
+Chery New QQ, C
+Mobi, C
+Picanto, C
+Up, C
+Jimny, C
+Kwid, C
+Etios, C
+Uno, C
+Ecosport, S
+Duster, S
+Tucson, S
+ix35, S
+ASX, S
+Tracker, S
+Pajero, S
+hilux, S
