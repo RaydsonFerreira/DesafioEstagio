@@ -2,7 +2,7 @@
 
 # Resolução
 
-Para Resolução do problema foi utilizado Java 1.8, conforme solicitado no documento enviado. Foram utilizadas duas classes, uma chamada Loja, que representam as lojas filiais da locadora, e outra classe chamada Carro, que representa os carros pertecentes as lojas. Para entrada dos carros, foi criado um arquivo .txt que se encontra na pasta ‘dist’. Outros dados de entrada são feitos pelo teclado.
+Para Resolução do problema foi utilizado Java 1.8, conforme solicitado no documento enviado. Foram utilizadas duas classes, uma chamada Loja, que representam as lojas filiais da locadora, e outra classe chamada Carro, que representam os carros pertencentes as lojas. Para entrada dos carros, foi criado um arquivo .txt que se encontra na pasta ‘dist’. Outros dados de entrada são feitos pelo teclado.
 
 #Execução
 
@@ -10,13 +10,13 @@ O programa não utiliza interface gráfica, sendo somente utilizado o terminal p
 
 Faça um clone da aplicação em sua máquina;
 
-Navegue até a pasta ‘dist’ através do terminal (Ex: se você fez o clone na área de trabalho, abra o terminal, e navegue com o seguinte comando: cd Área\ de\ Trabalho//DesafioEstagio/dist);
+Navegue até a pasta ‘dist’ através do terminal (Ex.: se você fez o clone na área de trabalho, abra o terminal, e navegue com o seguinte comando: cd Área\ de\ Trabalho//DesafioEstagio/dist);
 
-execute o comando: java -jar LocaCar.jar
+Execute o comando: java -jar LocaCar.jar
 
 ao iniciar o programa, digite 1 para alugar um carro e depois coloque na descrição conforme o padrão: 
 
-<Tipo de Cliente>: <Quantidade de passageiros>: <Data1>, <Data2>, <Data3>,…
+<<Tipo de Cliente>>: <<Quantidade de passageiros>>: <<Data1>>, <<Data2>>, <<Data3>>,…
 
 Tipo de Cliente: Normal ou Premium, o que caracteriza se um cliente possui ou não o cartão fidelidade;
 
