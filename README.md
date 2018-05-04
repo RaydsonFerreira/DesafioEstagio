@@ -16,7 +16,7 @@ Execute o comando: java -jar LocaCar.jar
 
 ao iniciar o programa, digite 1 para alugar um carro e depois coloque na descrição conforme o padrão: 
 
-<<Tipo de Cliente>>: <<Quantidade de passageiros>>: <<Data1>>, <<Data2>>, <<Data3>>,…
+< Tipo de Cliente >: < Quantidade de passageiros >: < Data1 >, < Data2 >, <  Data3 >,…
 
 Tipo de Cliente: Normal ou Premium, o que caracteriza se um cliente possui ou não o cartão fidelidade;
 
@@ -28,7 +28,7 @@ Como exemplo de entrada tem-se:
 
 Normal: 3: 23Mar2009(Qua), 24Mar2009(Qui), 25Mar2009(Sex)
 
-E como exemplo de saida:
+E como exemplo de saída:
 
 Fiat 500: SouthCar
 
@@ -38,7 +38,7 @@ Como o problema foi descrito de uma forma ampla, foi pensado o seguinte como ló
 
 1. Nenhum carro pose ser alugado na mesma data, portanto foi desenvolvida uma função para checagem na hora de alugar que faz uma verificação se o carro já está ou estará alugado naquela(s) data(s) informada(s). Sendo que quando um carro já está ocupado, o sistema retorna outro carro, ou se todos estiverem ocupados, é gerada uma mensagem escrita “carros indisponíveis”.  
 
-2. Para verificar qual carro é melhor para um determinado número de passageiros, é feito um calculo, onde o valor da diária de cada carro e somada (difernciando fim de semana com dia de semana, e cliente premium do normal). Verificando assim o melhor preço e a disponibilidade do aluguel do carro.
+2. Para verificar qual carro é melhor para um determinado número de passageiros, é feito um calculo, onde o valor da diária de cada carro e somada (diferenciando fim de semana com dia de semana, e cliente premium do normal). Verificando assim o melhor preço e a disponibilidade do aluguel do carro.
 
 # Dúvidas
 
